@@ -186,9 +186,6 @@ cython_debug/
 pyvenv.cfg
 pip-selfcheck.json
 
-# my virtual environment
-sunghyu
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -215,3 +212,8 @@ sunghyu
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,jupyternotebooks,python,venv
+
+### Magenta ###
+**/bundles
+**/output
+**/primers
